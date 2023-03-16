@@ -18,7 +18,8 @@ elif a == 4:
     print("La cara opuesta es 3")
 elif a == 5:
     print("La cara opuesta es 2")
-else:
+elif a == 6:
     print("La cara opuesta es 1")
-
-
+else: 
+    print("no es una cara valida del dado")
+    
